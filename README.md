@@ -10,4 +10,4 @@ a través de
 
 Para ver su funcionamiento es necesario descargar el repositorio y levantar un servidor 
 ###### Con node --> serve . 
-###### o con Browser-sync --> 1. npm install -g browser-sync 2. browser-sync start --server --files "css/*.css"
+###### o con Browser-sync --> 1. npm install -g browser-sync / 2. browser-sync start --server --files "*.html"
